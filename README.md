@@ -21,3 +21,7 @@ At the end of the game, cards give points according to their value, but cards in
 with the lowest value (e.g. A run of 30, 29, 28, 27 is only worth 27 points.) Chips are worth one negative point each. 
 The player(s) with the lowest number of points win the game.
 
+##Goals for Code Retreat
+
+- Build a playable version of this game that can be played with human players
+- Add an AI to play against
